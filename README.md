@@ -2,7 +2,7 @@
 weenyMo is (yet another) Belkin Wemo emulator, providing Alexa voice control for your ESP8266 (in Arduino IDE) in about the smallest "footprint" you will find
 
 ## WHY? 
-There's Fauxmo and others, but they all seem to send more data than they need to Alexa, requiring big data strings and more complexity than absolutely required. Let's face it: 90% of IOT devices just switch on or off... Why then have more code than you need? I decided to see how much could be cut away while still providing "switch on" / "switch off" functionality
+There's Fauxmo and others, but they all seem to send more data than they need to Alexa, requiring big data strings and more complexity than absolutely required. One "famous" implementation is over 700 lines of code compared with weenyMo's 70-odd. Let's face it: 90% of IOT devices just switch on or off... Why then have more code than you need, especially 10x more? I decided to see how much could be cut away while still providing "switch on" / "switch off" functionality
 
 Here's another reason: this is it, all there is to it: Once object constructor and one function.
 ```cpp
