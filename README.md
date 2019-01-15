@@ -32,7 +32,7 @@ void loop() {}
 ```
 If you know of or find anything easier / smaller - please let me know!
 
-Â© 2019 Phil Bowles
+© 2019 Phil Bowles
 * philbowles2012@gmail.com
 * http://www.github.com/philbowles
 * https://8266iot.blogspot.com

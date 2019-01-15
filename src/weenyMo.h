@@ -73,7 +73,7 @@ class weenyMo: public AsyncWebServer {
     }
     begin();
     Serial.printf("TELL ALEXA TO DISCOVER DEVICES\n");              
- }
+ };
 
     weenyMo(const char* friendlyName,function<void(bool)> onCommand): AsyncWebServer(80),cmd(onCommand),name(friendlyName){}              
 }

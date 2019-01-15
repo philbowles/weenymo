@@ -1,4 +1,4 @@
-// #include<weenyMo.h>
+#include<weenyMo.h>
 //
 //  choose your name carefully: alexa has very selective hearing!
 //
