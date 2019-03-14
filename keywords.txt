@@ -17,6 +17,5 @@ weenyMo	KEYWORD1
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
+getAlexaState	KEYWORD2
 gotIPAddress	KEYWORD2
-
-
